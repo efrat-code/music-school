@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music-school>
+  <classroom name="gitar gazz">
+    <teacher name="enosh" />
+    <student name="shmuel">
+      <instrument>gitar</instrument>
+    </student>
+    <student name="shmuel" />
+  </classroom>
+</music-school>

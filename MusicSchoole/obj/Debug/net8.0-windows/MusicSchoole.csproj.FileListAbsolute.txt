@@ -1,0 +1,16 @@
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.Form1.resources
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.csproj.GenerateResource.cache
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.AssemblyInfoInputs.cache
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.AssemblyInfo.cs
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.csproj.CoreCompileInputs.cache
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\bin\Debug\net8.0-windows\MusicSchoole.exe
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\bin\Debug\net8.0-windows\MusicSchoole.deps.json
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\bin\Debug\net8.0-windows\MusicSchoole.runtimeconfig.json
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\bin\Debug\net8.0-windows\MusicSchoole.dll
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\bin\Debug\net8.0-windows\MusicSchoole.pdb
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.dll
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\refint\MusicSchoole.dll
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.pdb
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\MusicSchoole.genruntimeconfig.cache
+C:\Users\Efrat\Desktop\kodekod_2\c#\MusicSchoole\MusicSchoole\obj\Debug\net8.0-windows\ref\MusicSchoole.dll
